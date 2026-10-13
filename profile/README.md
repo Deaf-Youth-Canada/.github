@@ -1,134 +1,149 @@
 <div align="center">
 
-# 🇨🇦 Deaf Youth Canada / Jeunes Sourds du Canada
+<img src="./assets/DYC-vector.png"
+     alt="Deaf Youth Canada / Jeunes Sourds du Canada"
+     width="650">
 
-### By Youth • For Youth • About Youth  
-### Par les jeunes • Pour les jeunes • À propos des jeunes
+# Deaf Youth Canada / Jeunes Sourds du Canada
 
-🌐 [dycjsc.ca](https://dycjsc.ca)
+**By Youth • For Youth • About Youth**  
+**Par les jeunes • Pour les jeunes • À propos des jeunes**
+
+[dycjsc.ca](https://dycjsc.ca)
 
 </div>
 
 ---
 
-## 👋 About Us | À propos de nous
+## About Us
 
-**Deaf Youth Canada / Jeunes Sourds du Canada (DYC/JSC)** is a national youth organization led by Deaf youth and serving Deaf residents of Canada and Canadians between the ages of **18 and 30**.
+**Deaf Youth Canada / Jeunes Sourds du Canada (DYC/JSC)** is a national organization serving Deaf youth across Canada between the ages of **18 and 30**.
 
-Our goal is to connect, empower, and support Deaf youth across Canada while creating opportunities for leadership, community involvement, collaboration, and the exchange of experiences.
+DYC/JSC is led by Deaf youth and works to create opportunities for young people to connect, develop leadership skills, share experiences, and become actively involved in their communities.
 
-**Deaf Youth Canada is led by Deaf youth, for Deaf youth.**
+Our work is built around three guiding principles:
 
----
-
-**Deaf Youth Canada / Jeunes Sourds du Canada (DYC/JSC)** est une organisation nationale dirigée par des jeunes Sourds et au service des résidents Sourds du Canada et des Canadiens âgés de **18 à 30 ans**.
-
-Notre objectif est de rassembler, responsabiliser et soutenir les jeunes Sourds partout au Canada tout en créant des occasions de leadership, d'engagement communautaire, de collaboration et d'échange d'expériences.
-
-**Jeunes Sourds du Canada est dirigé par des jeunes Sourds, pour les jeunes Sourds.**
-
----
-
-## 🌟 Our Mission | Notre mission
-
-### By Youth | Par les jeunes
-
+**By Youth**  
 DYC/JSC is governed and led by Deaf youth.
 
+**For Youth**  
+We bring Deaf youth together and create opportunities to build connections, exchange experiences, develop skills, and strengthen community.
+
+**About Youth**  
+We work to ensure Deaf youth are represented and included in conversations, initiatives, and organizations that affect their communities and their future.
+
+---
+
+## À propos de nous
+
+**Deaf Youth Canada / Jeunes Sourds du Canada (DYC/JSC)** est une organisation nationale qui s'adresse aux jeunes Sourds de partout au Canada âgés de **18 à 30 ans**.
+
+DYC/JSC est dirigé par des jeunes Sourds et vise à créer des occasions pour les jeunes de se rencontrer, de développer leurs compétences en leadership, de partager leurs expériences et de participer activement à leurs communautés.
+
+Notre travail repose sur trois principes fondamentaux :
+
+**Par les jeunes**  
 DYC/JSC est gouverné et dirigé par des jeunes Sourds.
 
-### For Youth | Pour les jeunes
+**Pour les jeunes**  
+Nous rassemblons les jeunes Sourds et créons des occasions de tisser des liens, d'échanger des expériences, de développer leurs compétences et de renforcer la communauté.
 
-We promote the unification of Deaf youth across Canada by encouraging the exchange of information, experiences, ideas, and opportunities.
-
-Nous favorisons l'unification des jeunes Sourds partout au Canada en encourageant l'échange d'informations, d'expériences, d'idées et de possibilités.
-
-### About Youth | À propos des jeunes
-
-We advocate for the inclusion and representation of Deaf youth within organizations and communities across Canada.
-
-Nous défendons l'inclusion et la représentation des jeunes Sourds au sein des organisations et des communautés partout au Canada.
+**À propos des jeunes**  
+Nous travaillons afin que les jeunes Sourds soient représentés et inclus dans les discussions, les initiatives et les organisations qui touchent leurs communautés et leur avenir.
 
 ---
 
-## 🏕️ CDYLC / CLJSC
+## Canadian Deaf Youth Leadership Camp
 
-DYC/JSC is also connected with the **Canadian Deaf Youth Leadership Camp / Camp de leadership des jeunes Sourds du Canada (CDYLC/CLJSC)**.
+The **Canadian Deaf Youth Leadership Camp / Camp de leadership des jeunes Sourds du Canada (CDYLC/CLJSC)** brings Deaf youth from across Canada together for a national leadership and community experience.
 
-CDYLC/CLJSC brings Deaf youth together from across Canada to develop leadership skills, build lifelong connections, share experiences, and strengthen the future of the Deaf community.
+The camp gives participants the opportunity to:
 
-Le **Camp de leadership des jeunes Sourds du Canada / Canadian Deaf Youth Leadership Camp (CLJSC/CDYLC)** rassemble des jeunes Sourds de partout au Canada afin de développer leurs compétences en leadership, créer des liens durables, partager leurs expériences et contribuer à l'avenir de la communauté Sourde.
+- develop leadership skills;
+- build friendships and lasting connections;
+- exchange ideas and experiences;
+- learn from other Deaf youth;
+- become more involved in the Deaf community; and
+- help develop the next generation of Deaf leaders in Canada.
 
-Learn more / En savoir plus:
+CDYLC/CLJSC is an important part of DYC/JSC's work to connect and empower Deaf youth from across the country.
 
-🌐 **[dycjsc.ca](https://dycjsc.ca)**
+### Camp de leadership des jeunes Sourds du Canada
 
----
+Le **Camp de leadership des jeunes Sourds du Canada / Canadian Deaf Youth Leadership Camp (CLJSC/CDYLC)** rassemble des jeunes Sourds de partout au Canada dans le cadre d'une expérience nationale axée sur le leadership et la communauté.
 
-## 💻 Our GitHub | Notre GitHub
+Le camp offre aux participants l'occasion de :
 
-This GitHub organization is used to support DYC/JSC's digital projects, including:
+- développer leurs compétences en leadership;
+- créer des amitiés et des liens durables;
+- échanger des idées et des expériences;
+- apprendre auprès d'autres jeunes Sourds;
+- s'impliquer davantage dans la communauté Sourde; et
+- contribuer au développement de la prochaine génération de leaders Sourds au Canada.
 
-- 🌐 Websites and web applications
-- 🏕️ CDYLC/CLJSC digital resources
-- 📅 Community and event tools
-- 🛠️ Internal technology projects
-- 📚 Public resources
-- ♿ Accessible digital experiences
-- 🇨🇦 Bilingual English and French content
-
-We aim to build digital services that are modern, accessible, maintainable, and useful for Deaf youth across Canada.
-
----
-
-Cette organisation GitHub est utilisée pour soutenir les projets numériques de DYC/JSC, notamment :
-
-- 🌐 Sites Web et applications Web
-- 🏕️ Ressources numériques du CDYLC/CLJSC
-- 📅 Outils communautaires et événementiels
-- 🛠️ Projets technologiques internes
-- 📚 Ressources publiques
-- ♿ Expériences numériques accessibles
-- 🇨🇦 Contenu bilingue en français et en anglais
-
-Notre objectif est de créer des services numériques modernes, accessibles, durables et utiles aux jeunes Sourds partout au Canada.
+Le CLJSC/CDYLC constitue une partie importante du travail de DYC/JSC visant à rassembler et à soutenir les jeunes Sourds partout au pays.
 
 ---
 
-## 🤝 Contributing | Contributions
+## Our GitHub
 
-Some repositories within this organization are maintained by DYC/JSC board members and authorized contributors.
+This GitHub organization is the home of digital projects maintained by **Deaf Youth Canada / Jeunes Sourds du Canada**.
 
-Public repositories may include individual contribution guidelines where community contributions are accepted.
+Our repositories may include:
 
-Please review the documentation within each repository before submitting issues, pull requests, or other contributions.
+- DYC/JSC websites and online services;
+- CDYLC/CLJSC projects;
+- community and event tools;
+- public resources and documentation;
+- accessibility-related projects; and
+- internal tools used to support the organization.
+
+Public repositories are maintained by DYC/JSC board members and authorized contributors.
+
+Where community contributions are accepted, individual repositories may include their own contribution guidelines and documentation.
 
 ---
 
-Certains dépôts de cette organisation sont maintenus par les membres du conseil d'administration de DYC/JSC et par des contributeurs autorisés.
+## Notre GitHub
 
-Les dépôts publics peuvent contenir leurs propres directives lorsque les contributions de la communauté sont acceptées.
+Cette organisation GitHub regroupe les projets numériques maintenus par **Deaf Youth Canada / Jeunes Sourds du Canada**.
 
-Veuillez consulter la documentation de chaque dépôt avant de soumettre des problèmes, des demandes de tirage ou d'autres contributions.
+Nos dépôts peuvent comprendre :
+
+- les sites Web et services en ligne de DYC/JSC;
+- les projets du CDYLC/CLJSC;
+- les outils communautaires et événementiels;
+- les ressources et la documentation publiques;
+- les projets liés à l'accessibilité; et
+- les outils internes utilisés pour soutenir l'organisation.
+
+Les dépôts publics sont maintenus par les membres du conseil d'administration de DYC/JSC et les contributeurs autorisés.
+
+Lorsque les contributions de la communauté sont acceptées, les dépôts concernés peuvent contenir leurs propres directives et documents de contribution.
 
 ---
 
-## 🔗 Connect With Us | Suivez-nous
+## Connect With Us
 
-🌐 **Website / Site Web:** [dycjsc.ca](https://dycjsc.ca)  
-📸 **Instagram:** [@dyc.jsc](https://www.instagram.com/dyc.jsc/)  
-📘 **Facebook:** [facebook.com/dyc.jsc](https://www.facebook.com/dyc.jsc)
+**Website:** [dycjsc.ca](https://dycjsc.ca)  
+**Instagram:** [@dyc.jsc](https://www.instagram.com/dyc.jsc/)  
+**Facebook:** [facebook.com/dyc.jsc](https://www.facebook.com/dyc.jsc)
+
+## Suivez-nous
+
+**Site Web :** [dycjsc.ca](https://dycjsc.ca)  
+**Instagram :** [@dyc.jsc](https://www.instagram.com/dyc.jsc/)  
+**Facebook :** [facebook.com/dyc.jsc](https://www.facebook.com/dyc.jsc)
 
 ---
 
 <div align="center">
 
-### 🇨🇦 Connecting Deaf youth across Canada  
-### Rassembler les jeunes Sourds partout au Canada
+### Deaf Youth Canada / Jeunes Sourds du Canada
 
-**By Youth. For Youth. About Youth.**  
-**Par les jeunes. Pour les jeunes. À propos des jeunes.**
+**By Youth • For Youth • About Youth**  
+**Par les jeunes • Pour les jeunes • À propos des jeunes**
 
-© Deaf Youth Canada / Jeunes Sourds du Canada
+[dycjsc.ca](https://dycjsc.ca)
 
 </div>
