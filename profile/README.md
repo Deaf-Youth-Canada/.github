@@ -30,7 +30,7 @@ DYC/JSC is governed and led by Deaf youth.
 We bring Deaf youth together and create opportunities to build connections, exchange experiences, develop skills, and strengthen community.
 
 **About Youth**  
-We work to ensure Deaf youth are represented and included in conversations, initiatives, and organizations that affect their communities and their future.
+We work to ensure Deaf youth are represented and included in conversations, initiatives, and organizations that affect them and their future.
 
 ---
 
@@ -38,7 +38,7 @@ We work to ensure Deaf youth are represented and included in conversations, init
 
 **Deaf Youth Canada / Jeunes Sourds du Canada (DYC/JSC)** est une organisation nationale qui s'adresse aux jeunes Sourds de partout au Canada âgés de **18 à 30 ans**.
 
-DYC/JSC est dirigé par des jeunes Sourds et vise à créer des occasions pour les jeunes de se rencontrer, de développer leurs compétences en leadership, de partager leurs expériences et de participer activement à leurs communautés.
+DYC/JSC est dirigé par des jeunes Sourds et vise à créer des occasions pour les jeunes de se rencontrer, de développer leurs compétences en leadership, de partager leurs expériences et de s'impliquer activement dans leurs communautés.
 
 Notre travail repose sur trois principes fondamentaux :
 
@@ -49,7 +49,7 @@ DYC/JSC est gouverné et dirigé par des jeunes Sourds.
 Nous rassemblons les jeunes Sourds et créons des occasions de tisser des liens, d'échanger des expériences, de développer leurs compétences et de renforcer la communauté.
 
 **À propos des jeunes**  
-Nous travaillons afin que les jeunes Sourds soient représentés et inclus dans les discussions, les initiatives et les organisations qui touchent leurs communautés et leur avenir.
+Nous travaillons afin que les jeunes Sourds soient représentés et inclus dans les discussions, les initiatives et les organisations qui les concernent et qui ont une incidence sur leur avenir.
 
 ---
 
@@ -64,13 +64,13 @@ The camp gives participants the opportunity to:
 - exchange ideas and experiences;
 - learn from other Deaf youth;
 - become more involved in the Deaf community; and
-- help develop the next generation of Deaf leaders in Canada.
+- contribute to the development of the next generation of Deaf leaders in Canada.
 
-CDYLC/CLJSC is an important part of DYC/JSC's work to connect and empower Deaf youth from across the country.
+CDYLC/CLJSC is an important part of DYC/JSC's work to connect, support, and empower Deaf youth across the country.
 
 ### Camp de leadership des jeunes Sourds du Canada
 
-Le **Camp de leadership des jeunes Sourds du Canada / Canadian Deaf Youth Leadership Camp (CLJSC/CDYLC)** rassemble des jeunes Sourds de partout au Canada dans le cadre d'une expérience nationale axée sur le leadership et la communauté.
+Le **Camp de leadership des jeunes Sourds du Canada / Canadian Deaf Youth Leadership Camp (CLJSC/CDYLC)** rassemble des jeunes Sourds de partout au Canada dans le cadre d'une expérience nationale axée sur le leadership, les échanges et la vie communautaire.
 
 Le camp offre aux participants l'occasion de :
 
@@ -81,13 +81,13 @@ Le camp offre aux participants l'occasion de :
 - s'impliquer davantage dans la communauté Sourde; et
 - contribuer au développement de la prochaine génération de leaders Sourds au Canada.
 
-Le CLJSC/CDYLC constitue une partie importante du travail de DYC/JSC visant à rassembler et à soutenir les jeunes Sourds partout au pays.
+Le CLJSC/CDYLC joue un rôle important dans le travail de DYC/JSC visant à rassembler, soutenir et outiller les jeunes Sourds partout au pays.
 
 ---
 
 ## Our GitHub
 
-This GitHub organization is the home of digital projects maintained by **Deaf Youth Canada / Jeunes Sourds du Canada**.
+This GitHub organization is home to digital projects maintained by **Deaf Youth Canada / Jeunes Sourds du Canada**.
 
 Our repositories may include:
 
@@ -110,16 +110,16 @@ Cette organisation GitHub regroupe les projets numériques maintenus par **Deaf 
 
 Nos dépôts peuvent comprendre :
 
-- les sites Web et services en ligne de DYC/JSC;
+- les sites Web et les services en ligne de DYC/JSC;
 - les projets du CDYLC/CLJSC;
 - les outils communautaires et événementiels;
 - les ressources et la documentation publiques;
 - les projets liés à l'accessibilité; et
-- les outils internes utilisés pour soutenir l'organisation.
+- les outils internes utilisés pour soutenir les activités de l'organisation.
 
-Les dépôts publics sont maintenus par les membres du conseil d'administration de DYC/JSC et les contributeurs autorisés.
+Les dépôts publics sont maintenus par les membres du conseil d'administration de DYC/JSC et par des contributeurs autorisés.
 
-Lorsque les contributions de la communauté sont acceptées, les dépôts concernés peuvent contenir leurs propres directives et documents de contribution.
+Lorsque les contributions de la communauté sont acceptées, les dépôts concernés peuvent contenir leurs propres directives et leur propre documentation concernant les contributions.
 
 ---
 
